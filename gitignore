@@ -1,0 +1,4 @@
+.idea
+main/migrations/
+api/migrations/
+db.sqlite3
